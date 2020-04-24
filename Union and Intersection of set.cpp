@@ -1,5 +1,4 @@
-// C/C++ program to find union and intersection of two unsorted
-// linked lists
+/// C/C++ program to find union and intersection of two set
 #include<stdio.h>
 #include<stdlib.h>
 #include<stdbool.h>
